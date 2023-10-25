@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\wamp64\www\CURSO JAVA ORIENTADO A OBJETO\Enumeracao_Composicao\.metadata\.plugins\org.eclipse.jdt.core
+2725684695.index
+3773272169.index
+1865797976.index
